@@ -1,0 +1,102 @@
+body{background-color: #ffffff;
+	border-color: #dddddd;
+	font-family: 'Arial';
+	background-image: url("concrete-texture.jpg");
+    background-color: #d3d3d3;
+}	
+
+header{background-color: #ffffff;
+	border-color: #cccccc;
+	font-family: 'georgia';
+	position: static;
+}
+
+h1{color: #fff;
+	padding: 10px 15px 10px 15px;
+	background-color: #4aaaa5;
+	width: 150px;
+	height: 75px;
+	size: 300px;
+	text-align: justify;
+	border-style: solid;
+}
+
+h2{color: #4aaaa5;
+   text-decoration: underline red;
+}
+
+#box{background-color: #fff;
+	width: 300px;
+	height: 340px;
+	margin: 100px 80px 100px 80px;
+	color: #fff;
+	padding: 120px 100px 200px 100px;
+	border-bottom: 10px;	
+}
+img{width: 200px;
+	height: 200px;
+	float: left;
+
+}
+
+.connectMePics{
+   width: 50px;
+   height: 50px;
+   align-self: center;
+}
+
+p{color: #777777;
+
+}
+
+.icon{ padding: 10px 15px 10px 10px;
+	   width: 250px;
+	   height: 100px;
+	   background-color: #fff;
+	   text-align: center;
+	   color: #4aaaa5;
+	   float: right;
+ }
+
+ .contactb{
+ 	width: :35px;
+ 	height: 400px;
+ 	padding: 10px 15px 10px 15px;
+ 	background-color: #fff;
+ 	margin: 50px 30px 30px 30px;
+ }
+
+ .pics{
+ 	width: 125px;
+ 	height: 500px;
+ 	padding: 15px 20px 15px 20px;
+ }
+
+ .portPics{
+ 	width: 225px;
+ 	height: 600px;
+ 	padding: 30px 30px 750px 30px;
+ 	margin: 95px 70px 120px 100px;
+ 	background-color: #fff;
+ }
+
+nav{float: right;
+	margin: 5px 5px 20px 5px;
+
+}
+
+footer{background-color: #666666;
+       height: 90px;
+		text-align: center;
+		color: #fff;
+		font-family: 'Arial';
+		border-top: 10px;
+		border-color: #4aaaa5;		
+}
+
+@media screen and (max-width: 640px) {
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 980px) {
+}
